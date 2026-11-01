@@ -1,0 +1,13 @@
+streamlit
+langgraph
+langchain
+langchain-groq
+langchain-google-genai
+python-dotenv
+pandas
+matplotlib
+openpyxl
+reportlab
+requests
+pytrends
+duckduckgo-search
