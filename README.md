@@ -35,3 +35,5 @@ Final Report Agent
 pip install -r requir*ments.txt
 
 python app.py
+
+http://localhost:8501/
